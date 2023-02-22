@@ -34,3 +34,6 @@ model.compile(optimizer='adam',
                 metrics=['accuracy'])
 
 # Train the model
+model.fit(x_train, y_train, epochs=3)
+
+model.save('handwritten.model')
