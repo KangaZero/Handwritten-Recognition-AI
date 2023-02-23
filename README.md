@@ -1,7 +1,7 @@
 ﻿# Handwritten-Recognition-AI
 
 ## Demo
-CLick here <a href="https://drive.google.com/file/d/16nxT3E8ZA1R6VGddzvHJ3ttSt_BNPO3P/view" target="_blank">https://drive.google.com/file/d/16nxT3E8ZA1R6VGddzvHJ3ttSt_BNPO3P/view</a>
+CLick here <a href="https://drive.google.com/file/d/16nxT3E8ZA1R6VGddzvHJ3ttSt_BNPO3P/view" target="_blank" rel="noopener">https://drive.google.com/file/d/16nxT3E8ZA1R6VGddzvHJ3ttSt_BNPO3P/view</a>
 <br>
 <img src="./assets/demo-view.png" alt="Demo view image">
 
